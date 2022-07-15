@@ -1,1 +1,12 @@
+:root {
+    --color-black: black;
+    --color-danger: #ff5e62;
+}
 
+.round {
+    border-top-right-radius: 1.2rem;
+}
+
+.menu-icon {
+    padding-right: 0.2rem;
+}
